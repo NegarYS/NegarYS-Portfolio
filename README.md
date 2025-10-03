@@ -5,6 +5,18 @@ The goal of the project is to create an online resume and portfolio that showcas
 It is deployed on **GitHub Pages**, making it easily accessible and shareable.
 
 ---
+## ✨ Features
+
+- **Responsive Design** – Adapts to desktop, tablet, and mobile devices.  
+- **Dual Navigation** – Desktop navbar and animated mobile hamburger menu.  
+- **Profile Section** – Includes introduction, resume download, and social links.  
+- **About Section** – Education and background information.  
+- **Experience Section** – Technical skills grouped with proficiency levels.  
+- **Projects Section** – Project previews with GitHub and Live Demo links.  
+- **Contact Section** – Simple contact info with email and LinkedIn.  
+- **Clean Animations** – Smooth transitions and hover effects.  
+- **Optimized for GitHub Pages** – Fast, static, and easy to deploy.
+---
 
 ## 🔎 Project Overview
 
@@ -78,6 +90,16 @@ The portfolio is designed to be **minimal, modern, and responsive**. It follows 
 
 ---
 
+## 📸 Screenshots
+
+### 🖥️ Desktop View
+![Desktop View](./assets/desktop_negarys.github.io.jpeg)
+
+### 📱 Mobile View
+![Mobile View](./assets/mobile_negarys.github.io.jpeg)
+
+---
+
 ## 🌟 Key Highlights
 
 - **Lightweight and Fast:** No external JS frameworks, only pure HTML, CSS, and JS.  
@@ -88,6 +110,31 @@ The portfolio is designed to be **minimal, modern, and responsive**. It follows 
 
 ---
 
+## 🎨 Customization Guide
+
+You can easily personalize this portfolio:
+
+- **Name, Title, and Intro:** Update in `index.html` under the `#profile` section.  
+- **Profile Picture:** Replace `assets/profile-pic.png`.  
+- **Resume File:** Replace `assets/resume-example.pdf` with your own CV.  
+- **Skills:** Update the `#experience` section with your own technologies.  
+- **Projects:** Modify the `#projects` section with new images, GitHub links, and live demo URLs.  
+- **Contact Info:** Update email and LinkedIn in the `#contact` section.  
+- **Colors & Fonts:** Edit in `style.css`.  
+
+---
+
+
+## 🌍 Deployment (GitHub Pages)
+
+1. Push your project to GitHub.  
+2. Go to **Repository Settings → Pages**.  
+3. Under **Source**, select **`main` branch / root**.  
+4. Save – your portfolio will be live at:  
+   ```
+   https://username.github.io/portfolio-website/
+   ```
+---
 
 ## 📜 Conclusion
 
